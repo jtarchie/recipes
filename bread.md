@@ -3,7 +3,7 @@
 ## ingredients
 
 * 2 cups whole flour
-* 2 cups white flout
+* 2 cups white flour
 * packet of yeast
 * 1/4 table spoon salt
 * 2 table spoons olive oil
