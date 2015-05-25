@@ -1,11 +1,14 @@
 # Rice Milk
 
+## Ingredients
+
 * 1 cup of cooked brown rice
 * 4 cups of water
 * Cheese cloth
 * 1 tsp salt (optional)
 * 2 tbsp maple syrup (optional)
 
+## Directions
 
 1. Mix rice and water in blender on *Soup*.
 2. Strain through cheesecloth.
