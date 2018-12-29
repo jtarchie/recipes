@@ -30,3 +30,7 @@
 7. Put on to cookie sheets, about a small ice cream scoop size
 8. Cook 10-15 minutes
 9. Cool on racks
+
+## inspiration
+
+* https://blog.williams-sonoma.com/the-perfect-chocolate-chip-cookies/
